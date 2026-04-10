@@ -45,10 +45,10 @@ rr_enterprise/
 ```
 
 The SQLite database (`rr_enterprise.db`) is auto-created on first run with **20 pre-loaded products** across four categories:
-- Asian Paints (5 products)
-- Birla Opus (3 products)
-- Pipes (5 products)
-- Electrical (7 products)
+- Asian Paints (50 products)
+- Birla Opus (30 products)
+- Pipes (50 products)
+- Electrical (100 products)
 
 ---
 
